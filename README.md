@@ -1,3 +1,7 @@
+# LEON-40823
+
+Update the libraries to remove the vulnerable library ts-invariant: 'npm:^0.4.2'. (LEON-39118)
+
 # Reason-apollo
 
 [![npm version](https://badge.fury.io/js/reason-apollo.svg)](https://badge.fury.io/js/reason-apollo)
